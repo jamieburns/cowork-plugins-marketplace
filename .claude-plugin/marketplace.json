@@ -1,0 +1,20 @@
+{
+  "name": "jamie-cowork-plugins",
+  "description": "Personal plugins authored by Jamie Burns — writing, engineering, and personal-project workflows.",
+  "owner": {
+    "name": "Jamie Burns",
+    "email": "thejamieburns@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "writing-cowork",
+      "source": {
+        "source": "github",
+        "repo": "jamieburns/writing-cowork"
+      },
+      "description": "Multi-role cowork pattern (PM, substance, voice/tone, review) for long-form writing projects. Skills install scaffolds, manage drift, run reviews, and coordinate role handoffs across a project's git-tracked vault.",
+      "category": "writing",
+      "tags": ["writing", "long-form", "obsidian", "research"]
+    }
+  ]
+}

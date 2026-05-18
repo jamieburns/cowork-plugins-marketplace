@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Editor / OS
+*.swp
+*~
+
+# Scratch
+_*
+*.scratch.md
