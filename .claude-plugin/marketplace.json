@@ -9,10 +9,11 @@
     {
       "name": "writing-cowork",
       "source": {
-        "source": "github",
-        "repo": "jamieburns/writing-cowork"
+        "source": "git-subdir",
+        "url": "jamieburns/writing-cowork",
+        "path": "0_Product"
       },
-      "description": "Multi-role cowork pattern (PM, substance, voice/tone, review) for long-form writing projects. Skills install scaffolds, manage drift, run reviews, and coordinate role handoffs across a project's git-tracked vault.",
+      "description": "Multi-role cowork pattern (PM, substance, voice/tone, review) for long-form writing projects. Skills install scaffolds, manage drift, run reviews, and coordinate role handoffs across a project's git-tracked vault. (v0.1.15)",
       "category": "writing",
       "tags": [
         "writing",
@@ -22,5 +23,5 @@
       ]
     }
   ],
-  "version": "1.0.9"
+  "version": "1.0.10"
 }
